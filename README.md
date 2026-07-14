@@ -27,10 +27,10 @@ Hi there! I'm **Em Sokhai**
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Em-Sokhai-123&theme=github-dark&hide_border=true&area=true" />
+  <img src="https://raw.githubusercontent.com/Em-Sokhai-123/Em-Sokhai-123/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
