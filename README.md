@@ -27,7 +27,7 @@ Hi there! I'm **Em Sokhai**
 
 ---
 
-## 💻 Skills Overview## 💼 Skills Overview
+## 💻 Skills Overview#
 
 | Category | Technologies |
 |-----------|--------------|
