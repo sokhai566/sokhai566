@@ -35,13 +35,6 @@ Hi there! I'm **Em Sokhai**
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Em-Sokhai-123&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
----
-
 ## 🌐 Connect With Me
 
 - Facebook: https://www.facebook.com/share/1HRzbTveRY/?mibextid=wwXIfr
