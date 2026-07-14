@@ -37,8 +37,9 @@ Hi there! I'm **Em Sokhai**
 
 ## 🏆 GitHub Trophy
 
-![](https://github-profile-trophy.vercel.app/?username=Em-Sokhai-123&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Em-Sokhai-123&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 ---
 
 ## 🌐 Connect With Me
