@@ -29,15 +29,21 @@ Hi there! I'm **Em Sokhai**
 
 ## 💻 Skills Overview
 
-## 🛠️ Skills
-
-![HTML](https://img.shields.io/badge/HTML-85%25-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-85%25-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-65%25-F7DF1E?style=for-the-badge&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-90%25-7952B3?style=for-the-badge&logo=bootstrap)
-![React](https://img.shields.io/badge/React-50%25-61DAFB?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-65%25-339933?style=for-the-badge&logo=node.js)
-
+| Skill | Level |
+|--------|--------|
+| HTML | █████████████████░░░ 85% |
+| CSS | █████████████████░░░ 85% |
+| JavaScript | █████████████░░░░░░ 65% |
+| Bootstrap | ██████████████████░ 90% |
+| React.js | ██████████░░░░░░░░░ 50% |
+| Node.js | █████████████░░░░░░ 65% |
+| Express.js | ████████████░░░░░░░ 60% |
+| Hono.js | ████████████░░░░░░░ 60% |
+| Bun.js | ████████████░░░░░░░ 60% |
+| Firebase | ██████░░░░░░░░░░░░░ 30% |
+| EJS | ████████████░░░░░░░ 60% |
+| Figma | ██████████████░░░░░ 70% |
+| Photoshop | ██████████░░░░░░░░░ 50% |
 ---
 
 ## 💻 Coding
