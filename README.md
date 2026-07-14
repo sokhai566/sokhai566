@@ -27,14 +27,6 @@ Hi there! I'm **Em Sokhai**
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Em-Sokhai-123/Em-Sokhai-123/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 💻 Coding
 
 <p align="center">
@@ -54,7 +46,3 @@ Hi there! I'm **Em Sokhai**
 - Facebook: https://www.facebook.com/share/1HRzbTveRY/?mibextid=wwXIfr
 - Telegram: https://telegram.me/GenZHai007
 - Email: haisok566@gmail.com
-
----
-
-![](https://komarev.com/ghpvc/?username=Em-Sokhai-123&color=blue)
