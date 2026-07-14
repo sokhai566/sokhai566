@@ -27,11 +27,11 @@ Hi there! I'm **Em Sokhai**
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
-![](https://github-readme-stats.vercel.app/api?username=Em-Sokhai-123&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Em-Sokhai-123&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Em-Sokhai-123&theme=github-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
