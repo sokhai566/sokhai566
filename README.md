@@ -1,4 +1,4 @@
-<img width="1233" height="1457" alt="image" src="https://github.com/user-attachments/assets/e2a9a14e-728e-47a0-aabd-1cf2f612328f" /><h1 align="center">Hi 👋, I'm Em Sokhai</h1>
+<h1 align="center">Hi 👋, I'm Em Sokhai</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Vue.js+Developer;Node.js+%26+Express.js;Always+Learning+New+Things" />
