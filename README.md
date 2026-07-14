@@ -39,7 +39,7 @@ Hi there! I'm **Em Sokhai**
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
-</p>](https://streak-stats.demolab.com?user=Em-Sokhai-123&theme=tokyonight)
+</p>
 
 ---
 
